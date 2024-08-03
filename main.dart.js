@@ -114948,7 +114948,7 @@ if((p==null?$.c1="en_US":p)==="ar")p=A.ad(this.a).ag("TABLET")?160:340
 else{p=this.b
 if(p>1150)p=160
 else if(A.ad(this.a).ag("TABLET"))p=250
-else p=p>=600?360:450}return new A.fy(new A.b6(a,new A.b0(0,1,r),r.h("b6<aZ.T>")),!1,A.Jv(A.aR(s,A.S2(A.aR(s,new A.fN(B.f4,s,s,A.aR(s,A.aE("Assets/images/lightting.png",s,s,s,s),B.n,s,s,s,s,120,B.Sz,s,s,s,120),s),B.n,B.aG,s,s,s,900,s,s,s,s,17976931348623157e292),B.ck,new A.R8()),B.n,s,s,s,s,s,new A.at(0,p,0,0),s,s,s,s),new A.b6(a,new A.b0(B.ED,B.f,q),q.h("b6<aZ.T>")),s,!0),s)},
+else p=p>=600?360:450}return new A.fy(new A.b6(a,new A.b0(0,1,r),r.h("b6<aZ.T>")),!1,A.Jv(A.aR(s,A.S2(A.aR(s,new A.fN(B.f4,s,s,A.aR(s,A.aE("assets/images/lightting.png",s,s,s,s),B.n,s,s,s,s,120,B.Sz,s,s,s,120),s),B.n,B.aG,s,s,s,900,s,s,s,s,17976931348623157e292),B.ck,new A.R8()),B.n,s,s,s,s,s,new A.at(0,p,0,0),s,s,s,s),new A.b6(a,new A.b0(B.ED,B.f,q),q.h("b6<aZ.T>")),s,!0),s)},
 $S:650}
 A.aSl.prototype={
 $3(a,b,c){return this.a.$1(c)},
